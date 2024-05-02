@@ -1,0 +1,1 @@
+import wikipedia #Used to search the query in wikipedia and return the result.
